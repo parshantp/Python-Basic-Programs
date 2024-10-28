@@ -1,0 +1,15 @@
+
+# Simple Python program to understand the arithmetical operators
+#--------------------------------------------------------------------------
+
+
+#--------------------------------------------------------------------------
+# ADDITION
+#--------------------------------------------------------------------------
+
+num1 = float(input("Enter first number :-"))            # Here,we are storing first number in (num1)
+num2 = float(input("Enter second number :-"))           # Here,we are storing second number in (num2)
+
+sum = num1 + num2                # Here,we add both numbers and store it in (sum)
+
+print("ADDITION  :-",sum)        # Here,we print the result.
