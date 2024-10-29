@@ -18,7 +18,7 @@ print("ADDITION  :-",sum)        # Here,we print the result.
 
 
 # -------------------------------------------------------------------------
-# DIVISION
+# SUBTRACTION
 # -------------------------------------------------------------------------
 
 num1 = float(input("Enter first number :-"))            # Here,we are storing first number in (num1)
