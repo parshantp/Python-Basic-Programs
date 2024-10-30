@@ -52,7 +52,7 @@ num2 = float(input("Enter second number :-"))           # Here,we are storing se
 
 div = num1 / num2                # Here,we divide the number and store it in (div)
 
-print("SUBTRACTION  :-",sub)        # Here,we print the result.
+print("DIVISION  :-",sub)        # Here,we print the result.
 
 
 
