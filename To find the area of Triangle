@@ -4,4 +4,4 @@
 # ------------------------------------------------------------------------------------------
 
 # Three sides of the triangle (a,b,c)
-a = 
+a = float(input("Enter first side:-"))
