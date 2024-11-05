@@ -8,3 +8,5 @@ c = float(input("Enter c :-"))
 
 # calculate the discriminant
 d = (b**2) - (4*a*c)
+
+# find two solutions
