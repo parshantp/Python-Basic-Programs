@@ -10,3 +10,4 @@ c = float(input("Enter c :-"))
 d = (b**2) - (4*a*c)
 
 # find two solutions
+s1 = (-b-cmath.sqrt(d))/(2*a)
