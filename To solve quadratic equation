@@ -22,4 +22,7 @@ print(f"The solutions are {s1} and {s2}")
 
 import math
 
-# function for 
+# function for finding roots
+def findroots(a,b,c):
+  df = b*b - 4*a*c
+  sv = math.sqrt(abs(df))
