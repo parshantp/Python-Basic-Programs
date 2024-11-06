@@ -14,3 +14,12 @@ s1 = (-b-cmath.sqrt(d))/(2*a)
 s2 = (-b+cmath.sqrt(d))/(2*a)
 
 print(f"The solutions are {s1} and {s2}")
+
+
+# ------------------------------------------------------------------------------------------------------
+
+# Python program to find roots of quadratic equation
+
+import math
+
+# function for 
