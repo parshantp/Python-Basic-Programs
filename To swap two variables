@@ -3,3 +3,8 @@
 
 p = int(input("Enter value:-"))
 q = int(input("Enter value:-"))
+
+# use third variable which is a temp. variable
+temp = p
+p = q
+q = temp
