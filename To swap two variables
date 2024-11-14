@@ -8,3 +8,6 @@ q = int(input("Enter value:-"))
 temp = p
 p = q
 q = temp
+
+print("The value of p is ",p)
+print("The value of q is ",q)
