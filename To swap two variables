@@ -1,0 +1,5 @@
+
+# BY USING NAIVE APPROACH
+
+p = int(input("Enter value:-"))
+q = int(input("Enter value:-"))
