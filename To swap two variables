@@ -23,3 +23,4 @@ q = int(input("enter value:-"))
 p,q = q,p
 
 print("The value of p is",p)
+print("The value of q is",q)
