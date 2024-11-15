@@ -30,3 +30,4 @@ print("The value of q is",q)
 # BY USING XOR METHOD
 
 p = int(input("enter value"))
+q = int(input("enter value"))
