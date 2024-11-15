@@ -21,3 +21,5 @@ q = int(input("enter value:-"))
 
 # to swap the values
 p,q = q,p
+
+print("The value of p is",p)
