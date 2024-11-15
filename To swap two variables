@@ -24,3 +24,9 @@ p,q = q,p
 
 print("The value of p is",p)
 print("The value of q is",q)
+
+# ------------------------------------------------------------------------------------------------
+
+# BY USING XOR METHOD
+
+p = 
