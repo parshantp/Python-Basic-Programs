@@ -35,5 +35,5 @@ q = int(input("enter value"))
 # to swap the values
 p = p^q
 q = p^q
-
+p = p^q
 
