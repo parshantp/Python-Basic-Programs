@@ -31,3 +31,9 @@ print("The value of q is",q)
 
 p = int(input("enter value"))
 q = int(input("enter value"))
+
+# to swap the values
+p = p^q
+q = p^q
+
+
