@@ -43,3 +43,5 @@ print("The value of q is",q)
 # ------------------------------------------------------------------------------------------------
 
 # BY USING ARITHEMATIC OPERATORS
+
+p = int(input("enter value"))
