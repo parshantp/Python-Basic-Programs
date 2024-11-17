@@ -51,3 +51,6 @@ q = int(input("enter value"))
 p = p+q
 q = p-q
 p = p-q
+
+print("The value of p is",p)
+print("The value of q is",q)
