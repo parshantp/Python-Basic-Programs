@@ -1,3 +1,8 @@
 
 # importing the random module
 import random
+
+# use random function from random module
+n = random.random()
+
+print("Random number",n)
