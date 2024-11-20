@@ -6,3 +6,4 @@ import random
 n = random.random()
 
 print("Random number",n)
+print("Random number",random.random())
