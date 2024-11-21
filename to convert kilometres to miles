@@ -1,0 +1,7 @@
+
+km = float(input("enter the speed of car in kilometres"))
+m = 0.621371
+
+miles = km * m
+
+print("The speed of car in miles is",miles)
