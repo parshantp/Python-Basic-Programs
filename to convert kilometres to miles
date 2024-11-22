@@ -12,3 +12,6 @@ def km(km):
   m = 0.621371
   miles = km * m
   print("The speed in miles is",miles)
+
+km = float(input("enter the spped in kilometer"))
+km(km)
